@@ -268,7 +268,7 @@ export default {
         },
         customBackend: {
           "localhost:25500 本地版": "http://localhost:25500/sub?",
-	  "sub.jshir.com (后端API）": "https://sub.jshir.com/sub?",
+	  "sub.jshir.com (JS后端API）": "https://sub.jshir.com/sub?",
           "sub-beta.now.sh (自动编译最新版本后端-测试）": "https://sub-beta.now.sh/sub?",
           "subcon.dlj.tf(subconverter作者提供-稳定)":
             "https://subcon.dlj.tf/sub?",
