@@ -293,6 +293,15 @@ export default {
               }
             ]
           },
+	  {
+            label: "jshir",
+            options: [
+              {
+                label: "JS规则",
+                value: "https://raw.githubusercontent.com/jshir8/config/master/Clash/config/js.ini"
+              }
+            ]
+          },
           {
             label: "ACL4SSR",
             options: [
