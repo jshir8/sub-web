@@ -300,7 +300,7 @@ export default {
                 label: "JS规则",
                 value: "https://raw.githubusercontent.com/jshir8/config/master/Clash/config/js.ini"
               },
-	      {
+              {
                 label: "JS规则_Adguard",
                 value: "https://raw.githubusercontent.com/jshir8/config/master/Clash/config/js_adguard.ini"
               }
